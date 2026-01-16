@@ -1,59 +1,49 @@
-# Mini Portfolio – Sales Analysis (Excel)
-This mini portfolio demonstrates the application of **basic Excel skills** to perform **simple sales analysis and visualization** using a dummy dataset.
-The project focuses on **data preparation, aggregation, and visual reporting** using Microsoft Excel. This project is to analyze sales performance based on category, region, and time using Excel.
+# 📊 Mini Excel Projects – Basic to Advanced
+This repository contains a collection of **mini projects using Microsoft Excel**, designed to demonstrate progressive skill development from **Basic**, **Intermediate**, to **Advanced** levels. Each project focuses on applying Excel features to real-world data scenarios, emphasizing **data preparation, analysis, and visualization**.
 
 
-## 📂 Dataset
-- Type: Dummy data
-- Format: Raw transactional sales data
-- Purpose: Practice data cleaning, processing, and analysis
+## 🎯 Project Objectives
+- Apply Excel skills through hands-on mini projects
+- Practice structured data analysis workflows
+- Develop analytical thinking using Excel
+- Build a portfolio suitable for data-related roles
 
 
-## 🧹 Data Cleaning & Processing
-Before analysis, the raw dataset is prepared through the following steps:
-* Identifying and handling **missing (blank) values**
-* Detecting and removing **duplicate records**
-* Standardizing **date, numeric, and text formats**
-* Ensuring consistency in categories and regions
-* Preparing a clean dataset ready for analysis and visualization
+Each folder contains:
+- A dedicated README explaining the project scope
+- Excel files related to the mini project
+- Supporting datasets (if applicable)
 
 
-## 📈 Analysis & Visualization
-
-The following analyses were performed:
-
-### 🔹 Total Sales by Category
-- Calculated total sales for each product category
-- Visualized using Excel charts
-
-### 🔹 Total Sales by Region
-- Aggregated sales data by region
-- Used visual comparison to identify regional performance
-
-### 🔹 Total Sales Over Time
-- Analyzed sales trends across time periods
-- Visualized using line or column charts
-
+## 🧹 Data Preparation
+Across all project levels, data preparation may include:
+- Handling missing or blank values
+- Removing duplicates
+- Standardizing formats
+- Ensuring data consistency and accuracy
 
 
 ## 🛠 Tools Used
 - Microsoft Excel
-  - Formulas
+  - Formulas & Functions
   - Pivot Tables
   - Charts & Visualizations
 
 
-## 🎯 Key Takeaways
-Through this mini portfolio, the learner demonstrates the ability to:
-- Prepare raw data for analysis
-- Perform basic sales aggregation
-- Create simple but clear visualizations
+## 🚀 How to Navigate
+1. Start from the **basic** folder
+2. Continue to **intermediate**
+3. Finish with **advanced**
+4. Refer to each folder’s README for project details
 
 
 ## 📌 Notes
-- Dataset used is for practice purposes only
-- Analysis focuses on clarity and correctness
-- This project serves as an introductory Excel portfolio
+- Datasets used are primarily for learning and practice
+- Projects are designed to be concise and focused
+- Repository will be updated with additional mini projects
 
 
-
+## 🌻Author
+**Putri Ayu L.W** <br>
+📩**Email:** putriayulw10@gmail.com <br>
+🔗**LinkedIn:** https://www.linkedin.com/in/putriayulichawardani
