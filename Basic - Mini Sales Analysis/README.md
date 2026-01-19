@@ -39,19 +39,19 @@ The output of this mini project includes **simple analytical reports and visuali
   - Total Order Id = 51
 
 - **Total Sales per Region**
-  - Total sales atau pembelian terbanyak berada di daerah 'East' dengan total pendapatan sebesar Rp 3.360.000, diikuti daerah 'West', 'South', dan 'North' <br>
+  - Total sales or purchases were highest in the ‘East’ region with total revenue of Rp 3,360,000, followed by the ‘West’, ‘South’, and ‘North’ regions <br>
     <img width="441" height="383" alt="image" src="https://github.com/user-attachments/assets/19d1c745-8af9-429f-a2db-3b66e44f23ea" />
 
 - **Total Sales Over Time**
-  - Sales tertinggi berada pada tanggal 01 dan 25 dengan total pendapatan sebesar Rp 750.000 <br>
+  - The highest sales were on January 1 and 25, with total revenue of Rp 750,000. <br>
     <img width="566" height="443" alt="image" src="https://github.com/user-attachments/assets/81ec75c8-c880-4387-8666-e1702ecdfb0a" />
 
 - **Total Sales per Category**
-  - Kategori dengan penjualan tertinggi berasal dari 'Footwear', bernilai Rp 5.000.000, dan terendah dari 'Electronics' dengan nilai Rp 2.000.000 <br>
+  - The category with the highest sales came from ‘Footwear’, worth IDR 5,000,000, and the lowest from ‘Electronics’ with a value of IDR 2,000,000. <br>
     <img width="500" height="435" alt="image" src="https://github.com/user-attachments/assets/1d898a75-7a6a-4755-8d6d-dd81f3e8a2a3" />
     
 - **Sales High vs Low**
-  - Produk dengan harga yang tinggi 'High' lebih mendominasi penjualan dibandingkan produk harga rendah 'Low'. Sehingga dapat diartikan bahwa pelanggan lebih banyak melakukan repuchase produk dengan harga tinggi atau mereka melakukan bulk buying (pembelian banyak barang secara sekaligus) <br>
+  - High-priced products dominate sales compared to low-priced products. This means that customers are more likely to repurchase high-priced products or make bulk purchases (purchasing many items at once).<br>
     <img width="444" height="441" alt="image" src="https://github.com/user-attachments/assets/47822675-0e5e-4858-b385-d9b91616445a" />
   
 ## ✅ Status
