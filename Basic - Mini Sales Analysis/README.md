@@ -19,7 +19,7 @@ The Basic level projects aim to practice:
 - Basic Functions (e.g., `SUM`, `AVERAGE`, `COUNT`)
 - Date & Time Functions
 - Text and Math Functions
-- Logical Functions (`IF`;'SUMIF')
+- Logical Functions (`IF`; `SUMIF`)
 - Conditional Formatting
 - Basic Charts
 
