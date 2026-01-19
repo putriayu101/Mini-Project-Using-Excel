@@ -39,20 +39,20 @@ The output of this mini project includes **simple analytical reports and visuali
   - Total Order Id = 51
 
 - **Total Sales per Region**
-  - Total sales atau pembelian terbanyak berada di daerah 'East' dengan total pendapatan sebesar Rp 3.360.000, diikuti daerah 'West', 'South', dan 'North'.
-    <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/6b9ec0bb-57ea-445a-a9ae-eb873a619dc9" />
+  - Total sales atau pembelian terbanyak berada di daerah 'East' dengan total pendapatan sebesar Rp 3.360.000, diikuti daerah 'West', 'South', dan 'North' <br>
+    <img width="331" height="282" alt="image" src="https://github.com/user-attachments/assets/19d1c745-8af9-429f-a2db-3b66e44f23ea" />
 
 - **Total Sales Over Time**
-  - Sales tertinggi berada pada tanggal 01 dan 25 dengan total pendapatan sebesar Rp 750.000
-    <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/853519a3-ff6c-4ce1-bb75-3002227fae20" />
+  - Sales tertinggi berada pada tanggal 01 dan 25 dengan total pendapatan sebesar Rp 750.000 <br>
+    <img width="463" height="223" alt="image" src="https://github.com/user-attachments/assets/81ec75c8-c880-4387-8666-e1702ecdfb0a" />
 
 - **Total Sales per Category**
-  - Kategori dengan penjualan tertinggi berasal dari 'Footwear', bernilai Rp 5.000.000, dan terendah dari 'Electronics' dengan nilai Rp 2.000.000
-    <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/0677028e-d768-46f1-88d0-18193c9fd7db" />
+  - Kategori dengan penjualan tertinggi berasal dari 'Footwear', bernilai Rp 5.000.000, dan terendah dari 'Electronics' dengan nilai Rp 2.000.000 <br>
+    <img width="352" height="225" alt="image" src="https://github.com/user-attachments/assets/1d898a75-7a6a-4755-8d6d-dd81f3e8a2a3" />
     
 - **Sales High vs Low**
-  - Produk dengan harga yang tinggi 'High' lebih mendominasi penjualan dibandingkan produk harga rendah 'Low'. Sehingga dapat diartikan bahwa pelanggan lebih banyak melakukan repuchase produk dengan harga tinggi atau mereka melakukan bulk buying (pembelian banyak barang secara sekaligus)
-    <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/5fbff546-3c0b-46b7-9053-296fe3bf183b" />
+  - Produk dengan harga yang tinggi 'High' lebih mendominasi penjualan dibandingkan produk harga rendah 'Low'. Sehingga dapat diartikan bahwa pelanggan lebih banyak melakukan repuchase produk dengan harga tinggi atau mereka melakukan bulk buying (pembelian banyak barang secara sekaligus) <br>
+    <img width="333" height="221" alt="image" src="https://github.com/user-attachments/assets/47822675-0e5e-4858-b385-d9b91616445a" />
   
 ## ✅ Status
 ✔ Completed
