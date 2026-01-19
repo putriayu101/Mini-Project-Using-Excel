@@ -48,7 +48,7 @@ The output of this mini project includes **simple analytical reports and visuali
 
 - **Total Sales per Category**
   - Kategori dengan penjualan tertinggi berasal dari 'Footwear', bernilai Rp 5.000.000, dan terendah dari 'Electronics' dengan nilai Rp 2.000.000 <br>
-    <img width="452" height="335" alt="image" src="https://github.com/user-attachments/assets/1d898a75-7a6a-4755-8d6d-dd81f3e8a2a3" />
+    <img width="500" height="435" alt="image" src="https://github.com/user-attachments/assets/1d898a75-7a6a-4755-8d6d-dd81f3e8a2a3" />
     
 - **Sales High vs Low**
   - Produk dengan harga yang tinggi 'High' lebih mendominasi penjualan dibandingkan produk harga rendah 'Low'. Sehingga dapat diartikan bahwa pelanggan lebih banyak melakukan repuchase produk dengan harga tinggi atau mereka melakukan bulk buying (pembelian banyak barang secara sekaligus) <br>
