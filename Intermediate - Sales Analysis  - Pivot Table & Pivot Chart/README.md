@@ -46,7 +46,8 @@ The output of these mini projects typically includes:
 <div align = "center">
   <img width="450" height="252" alt="image" src="https://github.com/user-attachments/assets/08515610-15f0-4dc5-904c-8d384533024d" />
  </div>
-  - Puncak tertinggi tren berada di bulan Februari sebesar Rp 10.050.000. 
+ - Kategori *Electronics* menyumbang pendapatan tertinggi sebesar RP 12,935,000.
+ - Puncak tertinggi tren berada di bulan Februari sebesar Rp 10.050.000. 
   - Terjadi penurunan drastis dari bulan April ke Mei sebesar 66%.
   - Setelah analisis lebih lanjut, penurunan (*grafik putus-putus orange*) terjadi karena kurangnya data atau ketidakaturan durasi data. Dataset yang digunakan berakhir di tanggal *10 Mei 2024*, sehingga dapat dikatakan bahwa *data tersebut masih on-going atau Forecast*.<br>
   - Setelah dilakukan analisa lebih lanjut dengan *forecasting*, didapatkan hasil bahwa pada bulan *Mei performa penjualan stabil sebesar Rp 9.889.000 atau 23.99%*, dan bahkan berpotensi menyamai rekor penjualan pada bulan Februari. 
