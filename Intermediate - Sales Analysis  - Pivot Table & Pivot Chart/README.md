@@ -58,7 +58,7 @@ The output of these mini projects typically includes:
 
 - **Total Sales per Region**<br>
     <img width="554" height="466" alt="image" src="https://github.com/user-attachments/assets/53f43d9e-f92d-4454-b23d-646e88c1819b" />
-  - Persentase penjualan tertinggi berasal dari daerah **West** yang mencapai angka **28%** dari Total Sales, di ikuti East, North, dan terakhir South.
+  - Persentase **penjualan tertinggi** berasal dari daerah **West** yang mencapai angka **28%** dari Total Sales, di ikuti **East, North, dan terakhir South**.
 
 - **Trend Harga Jual (Average per Unit)**<br>
     <img width="553" height="452" alt="image" src="https://github.com/user-attachments/assets/754cd16f-7d52-4ca4-ac30-f3d2ffc500c6" />
@@ -74,7 +74,9 @@ The output of these mini projects typically includes:
   - g
   - ggg
   - gg
-
+<p align="center">
+  <img width="552" height="327" alt="image" src="https://github.com/user-attachments/assets/0f37425b-52fa-4cda-9507-404ce611cf6d" />
+</p>
 ## 🎯 Learning Outcome
 After completing the Intermediate projects, the learner is able to:
 - Prepare and clean datasets for analysis
