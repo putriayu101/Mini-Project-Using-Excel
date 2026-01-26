@@ -7,6 +7,7 @@ This folder contains **basic-level Excel mini projects** focused on building fun
 ## 📁 Dataset
 - Dataset Sales in One month total 51 Data
 - Projects use simple and dummy datasets for practice
+- Dataset in Portfolio project
   
 ## 🎯 Project Focus
 The Basic level projects aim to practice:
