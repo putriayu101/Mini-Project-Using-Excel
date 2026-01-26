@@ -43,7 +43,7 @@ The output of these mini projects typically includes:
   </div> 
 
 - **Total Sales per Date / Trend Chart** <br>
-    <img width="452" height="227" alt="image" src="https://github.com/user-attachments/assets/0f37425b-52fa-4cda-9507-404ce611cf6d" />
+                            <img width="452" height="227" alt="image" src="https://github.com/user-attachments/assets/0f37425b-52fa-4cda-9507-404ce611cf6d" />
   - Puncak tertinggi tren berada di bulan Februari sebesar Rp 10.050.000.
   - Perjadi penurunan drastis dari bulan April ke Mei **sebesar 66%**.
   - Setelah analisis lebih lanjut, penurunan (grafik putus-putus orange) terjadi karena kurangnya data atau ketidakaturan durasi data. Dataset yang digunakan berakhir di tanggal *10 Mei 2024*, sehingga dapat dikatakan bahwa *data tersebut masih on-going atau Forecast*. <br><br>
