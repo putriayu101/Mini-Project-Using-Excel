@@ -37,37 +37,37 @@ Common preprocessing steps include:
 ## 📊 Project Output & Analysis - Pivot Table & Pivot Chart
 The output of these mini projects typically includes:
 - **Total Sales per Category**
-  - Kategori *Electronics* menyumbang pendapatan tertinggi sebesar RP 12,935,000. 
+  - Kategori **Electronics menyumbang pendapatan tertinggi sebesar RP 12,935,000**. 
   <div align = "center">
     <img width="545" height="366" alt="image" src="https://github.com/user-attachments/assets/80cfa220-69f8-48d0-83b4-3f2c255013bf" />
   </div> 
 
 - **Total Sales per Date / Trend Chart** <br>
     <img width="552" height="327" alt="image" src="https://github.com/user-attachments/assets/0f37425b-52fa-4cda-9507-404ce611cf6d" />
-  - Puncak tertinggi tren berada di bulan Februari sebesar Rp 10.050.000.
-  - Perjadi penurunan drastis dari bulan April ke Mei **sebesar 66%**.
-  - Setelah analisis lebih lanjut, penurunan (grafik putus-putus orange) terjadi karena kurangnya data atau ketidakaturan durasi data. Dataset yang digunakan berakhir di tanggal *10 Mei 2024*, sehingga dapat dikatakan bahwa *data tersebut masih on-going atau Forecast*. 
-  - Setelah dilakukan analisa lebih lanjut dengan *forecasting*, didapatkan hasil bahwa pada bulan *Mei performa penjualan stabil sebesar Rp 9.889.000 atau 23.99%*, dan bahkan berpotensi menyamai rekor penjualan pada bulan Februari.<br>
+  - Puncak tertinggi tren berada di bulan **Februari sebesar Rp 10.050.000**.
+  - Perjadi **penurunan drastis** dari bulan April ke Mei **sebesar 66%**.
+  - Setelah analisis lebih lanjut, **penurunan (*grafik putus-putus orange*) terjadi karena kurangnya data atau ketidakaturan durasi data**. Dataset yang digunakan berakhir di tanggal **10 Mei 2024**, sehingga dapat dikatakan bahwa **data tersebut masih on-going atau Forecast**. 
+  - Setelah dilakukan analisa lebih lanjut dengan **forecasting**, didapatkan hasil bahwa pada bulan **Mei performa penjualan stabil sebesar Rp 9.889.000 atau 23.99%**, dan bahkan berpotensi menyamai rekor penjualan pada bulan Februari.<br>
     <img width="539" height="200" alt="image" src="https://github.com/user-attachments/assets/db61e120-deb4-43d8-8ce8-2eb1f0cd36d0" /> <br><br>
-  - Dilakukan Juga Analisa Perbandingan Tgl 1 - 10 April vs Mei. Didapatkan hasil, bahwa *total penjualan di bulan Mei lebih tinggi dibandingkan bulan April*.<br>
+  - Dilakukan Juga Analisa Perbandingan Tgl 1 - 10 April vs Mei. Didapatkan hasil, bahwa **total penjualan di bulan Mei lebih tinggi dibandingkan bulan April**.<br>
     <img width="317" height="238" alt="image" src="https://github.com/user-attachments/assets/11f64595-6eff-4add-b200-d73dacc9015e" />
 
 - **Total Sales High vs Low**
-  - Pada bulan Januari - Mei 2024 sekitar 85% produk yang diminati berasal dari produk dengan harga mahal. Di setiap bulannya minat konsumen tidak berubah, dapat disimpulkan bahwa produk dengan harga tinggi lebih mendominasi penjualan tiap bulan.
+  - Pada bulan **Januari - Mei 2024 sekitar 85% produk yang diminati berasal dari produk dengan harga mahal**. Di setiap bulannya minat konsumen tidak berubah, dapat disimpulkan bahwa produk dengan harga tinggi lebih mendominasi penjualan tiap bulan.
     <img width="425" height="399" alt="image" src="https://github.com/user-attachments/assets/e55be7fd-e46e-4aac-b0ff-1ee359a9e412" />
 
 - **Total Sales per Region**<br>
-    <img width="454" height="366" alt="image" src="https://github.com/user-attachments/assets/53f43d9e-f92d-4454-b23d-646e88c1819b" />
-  - Persentase penjualan tertinggi berasal dari daerah *West* yang mencapai angka 28% dari Total Sales, diikuti East, North, dan terakhir South.
+    <img width="554" height="466" alt="image" src="https://github.com/user-attachments/assets/53f43d9e-f92d-4454-b23d-646e88c1819b" />
+  - Persentase penjualan tertinggi berasal dari daerah **West** yang mencapai angka **28%** dari Total Sales, di ikuti East, North, dan terakhir South.
 
 - **Trend Harga Jual (Average per Unit)**<br>
-    <img width="453" height="352" alt="image" src="https://github.com/user-attachments/assets/754cd16f-7d52-4ca4-ac30-f3d2ffc500c6" />
-  - Rata - rata penjualan bulan Januari - Mei 2024 mengalami peningkatan, dan puncaknya berada di bulan Mei sebesar Rp 145.500, sehingga penjualan produk meningkat secara bertahap setiap bulannya (*grafik batang orange*).
+    <img width="553" height="452" alt="image" src="https://github.com/user-attachments/assets/754cd16f-7d52-4ca4-ac30-f3d2ffc500c6" />
+  - Rata - rata **penjualan bulan Januari - Mei 2024 mengalami peningkatan**, dan puncaknya berada di bulan Mei sebesar Rp 145,500, sehingga penjualan **produk meningkat secara bertahap setiap bulannya** (*grafik batang orange*).
 
 - **Total Sales of Each Category per Region**<br>
-    <img width="574" height="374" alt="image" src="https://github.com/user-attachments/assets/0c1f06e1-1c7b-4990-862e-afe8d2417888" />
-  - Dilihat dari Sum of Quantity, kategori *Accessories* berada di urutan ke-3 dengan pembeli terbanyak dibandingkan kategori *Footwear*, tetapi total sales yang dihasilkan adalah yang paling rendah. Ini terjadi karena *harga unit price* *Accessories* lebih rendah dibanding kategori lain, sehingga grafik yang dihasilkan menujukkan *Accessories* berada di tingkat terendah penjualan.
-  - Dari hal tersebut, tidak bisa dikatakan bahwa minat pembeli pada kategori *Accessories* di setiap wilayah itu rendah, akan tetapi, kita bisa meningkatkan penjualan kategori tersebut dengan beberapa cara seperti dilakukannya promosi melalui media sosial atau launching produk baru untuk menarik minat pelanggan lebih banyak dalam pembelian kategori tersebut. 
+    <img width="674" height="474" alt="image" src="https://github.com/user-attachments/assets/0c1f06e1-1c7b-4990-862e-afe8d2417888" />
+  - Dilihat dari **Sum of Quantity**, kategori **Accessories** berada di urutan ke-3 dengan pembeli terbanyak dibandingkan kategori **Footwear**, tetapi total sales yang dihasilkan adalah yang paling rendah. Ini terjadi karena **harga unit price Accessories lebih rendah dibanding kategori lain**, sehingga grafik yang dihasilkan menujukkan **Accessories** berada di tingkat terendah penjualan.
+  - Dari hal tersebut, tidak bisa dikatakan bahwa minat pembeli pada kategori **Accessories** di setiap wilayah itu rendah, akan tetapi, kita bisa meningkatkan penjualan kategori tersebut dengan beberapa cara seperti dilakukannya promosi melalui media sosial atau launching produk baru untuk menarik minat pelanggan lebih banyak dalam pembelian kategori tersebut. 
   - f
   - fff
   - gg
