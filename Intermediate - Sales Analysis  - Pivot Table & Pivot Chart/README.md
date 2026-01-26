@@ -77,6 +77,10 @@ The output of these mini projects typically includes:
 <p align="center">
   <img width="552" height="327" alt="image" src="https://github.com/user-attachments/assets/0f37425b-52fa-4cda-9507-404ce611cf6d" />
 </p>
+
+**Sales Performance Dashboard**  
+*Excel Intermediate Project*
+
 ## 🎯 Learning Outcome
 After completing the Intermediate projects, the learner is able to:
 - Prepare and clean datasets for analysis
