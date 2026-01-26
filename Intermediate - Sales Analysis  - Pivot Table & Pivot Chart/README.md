@@ -54,13 +54,24 @@ The output of these mini projects typically includes:
 
 - **Total Sales High vs Low**
   - Pada bulan Januari - Mei 2024 sekitar 85% produk yang diminati berasal dari produk dengan harga mahal. Di setiap bulannya minat konsumen tidak berubah, dapat disimpulkan bahwa produk dengan harga tinggi lebih mendominasi penjualan tiap bulan.
-    <img width="725" height="599" alt="image" src="https://github.com/user-attachments/assets/e55be7fd-e46e-4aac-b0ff-1ee359a9e412" />
+    <img width="425" height="399" alt="image" src="https://github.com/user-attachments/assets/e55be7fd-e46e-4aac-b0ff-1ee359a9e412" />
 
-  - fff
-  - fff
-  - fffff
+- **Total Sales pe Region**<br>
+    <img width="954" height="599" alt="image" src="https://github.com/user-attachments/assets/53f43d9e-f92d-4454-b23d-646e88c1819b" />
+  - Persentase penjualan tertinggi berasal dari daerah *West* yang mencapai angka 28% dari Total Sales, diikuti East, North, dan terakhir South.
+
+- **Trend Harga Jual (Average per Unit)**<br>
+    <img width="853" height="702" alt="image" src="https://github.com/user-attachments/assets/754cd16f-7d52-4ca4-ac30-f3d2ffc500c6" />
+  - Rata - rata penjualan bulan Januari - Mei 2024 mengalami peningkatan, dan puncaknya berada di bulan Mei sebesar Rp 145.500, sehingga penjualan produk meningkat secara bertahap setiap bulannya (*grafik batang orange*).
   - ff
   - gggg
+  - ffff
+  - f
+  - fff
+  - gg
+  - g
+  - ggg
+  - gg
 
 ## 🎯 Learning Outcome
 After completing the Intermediate projects, the learner is able to:
