@@ -43,7 +43,7 @@ The output of these mini projects typically includes:
   </div> 
 
 - **Total Sales per Date / Trend Chart**
-- 
+  - 
 
 ## 🎯 Learning Outcome
 After completing the Intermediate projects, the learner is able to:
