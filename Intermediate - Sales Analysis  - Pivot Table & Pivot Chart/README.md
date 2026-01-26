@@ -48,13 +48,11 @@ The output of these mini projects typically includes:
  </div>
   - Puncak tertinggi tren berada di bulan Februari sebesar Rp 10.050.000. 
   - Terjadi penurunan drastis dari bulan April ke Mei sebesar 66%.
-  - Setelah analisis lebih lanjut, penurunan (*grafik putus-putus orange*) terjadi karena kurangnya data atau ketidakaturan durasi data. Dataset yang digunakan berakhir di tanggal *10 Mei 2024*, sehingga dapat dikatakan bahwa *data tersebut masih on-going atau Forecast*. 
-
+  - Setelah analisis lebih lanjut, penurunan (*grafik putus-putus orange*) terjadi karena kurangnya data atau ketidakaturan durasi data. Dataset yang digunakan berakhir di tanggal *10 Mei 2024*, sehingga dapat dikatakan bahwa *data tersebut masih on-going atau Forecast*. <br>
 <div align = "center">
   <img width="520" height="100" alt="image" src="https://github.com/user-attachments/assets/23a38fc8-a73c-4f79-a450-48543b852643" />
 </div>
   - Setelah dilakukan analisa lebih lanjut dengan *forecasting*, didapatkan hasil bahwa pada bulan *Mei performa penjualan stabil sebesar Rp 9.889.000 atau 23.99%*, dan bahkan berpotensi menyamai rekor penjualan pada bulan Februari. ---- (After further analysis using forecasting, the results show that in May, sales performance was stable at IDR 9,889,000 or 23.99%, and even had the potential to match the sales record in February.) <br>
-
 <div align = "center">
   <img width="230" height="246" alt="image" src="https://github.com/user-attachments/assets/f78fe043-a463-412d-b8e8-7f07d9f46cf7" />
 </div>
