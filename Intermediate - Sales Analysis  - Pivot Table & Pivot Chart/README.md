@@ -33,15 +33,21 @@ Common preprocessing steps include:
 - Standardizing text formats and categories - (Using `TRIM` `PROPER` `SUBSTITUTE`)
 - Create "Mapping_Product" files to help standarize words
 - Ensuring dataset consistency
-
+<div align="center">
+  <img src="URL_GRAFIK_ATAU_GAMBAR_ANDA.png" />
+</div>
 ## 📊 Project Output & Analysis - Pivot Table & Pivot Chart
 The output of these mini projects typically includes:
 - **Total Sales per Category**
   - Kategori *Electronics* menyumbang pendapatan tertinggi sebesar RP 12,935,000. ---- (The *Electronics* category contributed the highest revenue of IDR 12,935,000.)
-  <img width="432" height="233" alt="image" src="https://github.com/user-attachments/assets/80cfa220-69f8-48d0-83b4-3f2c255013bf" />
+  <div align = "center">
+    <img width="432" height="233" alt="image" src="https://github.com/user-attachments/assets/80cfa220-69f8-48d0-83b4-3f2c255013bf" />
+  </div>
 
 - **Total Sales per Date / Trend Chart**
+<div align = "center">
   <img width="420" height="225" alt="image" src="https://github.com/user-attachments/assets/08515610-15f0-4dc5-904c-8d384533024d" />
+ </div>
   - Puncak tertinggi tren berada di bulan Februari sebesar Rp 10.050.000. ---- (The highest peak of the trend was in February at Rp 10,050,000.)
   - Terjadi penurunan drastis dari bulan April ke Mei sebesar 66%. ---- (There was a drastic decline from April to May of 66%.)
   - Setelah analisis lebih lanjut, penurunan (*grafik putus-putus orange*) terjadi karena kurangnya data atau ketidakaturan durasi data. Dataset yang digunakan berakhir di tanggal *10 Mei 2024*, sehingga dapat dikatakan bahwa *data tersebut masih on-going atau Forecast*. ---- (After further analysis, the decline (*orange dotted line*) occurred due to insufficient data or irregular data duration. The dataset used ends on *May 10, 2024*, so it can be said that *the data is still ongoing or a forecast*.)
