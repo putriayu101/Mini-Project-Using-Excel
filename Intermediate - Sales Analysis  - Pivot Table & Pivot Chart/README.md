@@ -37,35 +37,35 @@ Common preprocessing steps include:
 ## 📊 Project Output & Analysis - Pivot Table & Pivot Chart
 The output of these mini projects typically includes:
 - **Total Sales per Category**
-  - Kategori **Electronics menyumbang pendapatan tertinggi sebesar RP 12,935,000**. 
+  - The **Electronics category contributed the highest revenue of IDR 12,935,000**.  
     <img width="545" height="366" alt="image" src="https://github.com/user-attachments/assets/80cfa220-69f8-48d0-83b4-3f2c255013bf" />
 
 - **Total Sales per Date / Trend Chart** <br>
     <img width="552" height="327" alt="image" src="https://github.com/user-attachments/assets/0f37425b-52fa-4cda-9507-404ce611cf6d" />
-  - Puncak tertinggi tren berada di bulan **Februari sebesar Rp 10.050.000**.
-  - Perjadi **penurunan drastis** dari bulan April ke Mei **sebesar 66%**.
-  - Setelah analisis lebih lanjut, **penurunan (*grafik putus-putus orange*) terjadi karena kurangnya data atau ketidakaturan durasi data**. Dataset yang digunakan berakhir di tanggal **10 Mei 2024**, sehingga dapat dikatakan bahwa **data tersebut masih on-going atau Forecast**. 
-  - Setelah dilakukan analisa lebih lanjut dengan **forecasting**, didapatkan hasil bahwa pada bulan **Mei performa penjualan stabil sebesar Rp 9.889.000 atau 23.99%**, dan bahkan berpotensi menyamai rekor penjualan pada bulan Februari.<br>
+  - The highest peak of the trend was in **February at Rp 10,050,000**.
+  - There was a **sharp decline** from April to May **by 66%**.
+  - After further analysis, the **decline (*orange dotted line*) occurred due to a lack of data or irregular data duration**. The dataset used ends on **May 10, 2024**, so it can be said that **the data is still ongoing or a forecast**. 
+  - After further analysis using **forecasting**, the results show that **in May, sales performance was stable at Rp 9,889,000 or 23.99%**, and even had the potential to match the sales record in February.<br>
     <img width="539" height="200" alt="image" src="https://github.com/user-attachments/assets/db61e120-deb4-43d8-8ce8-2eb1f0cd36d0" /> <br><br>
-  - Dilakukan Juga Analisa Perbandingan Tgl 1 - 10 April vs Mei. Didapatkan hasil, bahwa **total penjualan di bulan Mei lebih tinggi dibandingkan bulan April**.<br>
+  - A comparative analysis was also conducted for April 1-10 vs. May. The results showed that **total sales in May were higher than in April**.<br>
     <img width="317" height="238" alt="image" src="https://github.com/user-attachments/assets/11f64595-6eff-4add-b200-d73dacc9015e" />
 
 - **Total Sales High vs Low**
-  - Pada bulan **Januari - Mei 2024 sekitar 85% produk yang diminati berasal dari produk dengan harga mahal**. Di setiap bulannya minat konsumen tidak berubah, dapat disimpulkan bahwa produk dengan harga tinggi lebih mendominasi penjualan tiap bulan.
+  - From **January to May 2024, approximately 85% of the most popular products were high-priced items**. Consumer interest remained consistent each month, suggesting that high-priced products dominated monthly sales.
     <img width="425" height="399" alt="image" src="https://github.com/user-attachments/assets/e55be7fd-e46e-4aac-b0ff-1ee359a9e412" />
 
 - **Total Sales per Region**<br>
     <img width="554" height="466" alt="image" src="https://github.com/user-attachments/assets/53f43d9e-f92d-4454-b23d-646e88c1819b" />
-  - Persentase **penjualan tertinggi** berasal dari daerah **West** yang mencapai angka **28%** dari Total Sales, di ikuti **East, North, dan terakhir South**.
+  - The **highest sales percentage** came from the **West** region, which accounted for **28%** of total sales, followed by the **East, North, and finally South**.
 
 - **Trend Harga Jual (Average per Unit)**<br>
     <img width="553" height="452" alt="image" src="https://github.com/user-attachments/assets/754cd16f-7d52-4ca4-ac30-f3d2ffc500c6" />
-  - Rata - rata **penjualan bulan Januari - Mei 2024 mengalami peningkatan**, dan puncaknya berada di bulan Mei sebesar Rp 145,500, sehingga penjualan **produk meningkat secara bertahap setiap bulannya** (*grafik batang orange*).
+  - On average, **sales from January to May 2024 increased**, peaking in May at Rp 145,500, meaning that **product sales increased gradually each month** (*orange bar graph*).
 
 - **Total Sales of Each Category per Region**<br>
     <img width="674" height="474" alt="image" src="https://github.com/user-attachments/assets/0c1f06e1-1c7b-4990-862e-afe8d2417888" />
-  - Dilihat dari **Sum of Quantity**, kategori **Accessories** berada di urutan ke-3 dengan pembeli terbanyak dibandingkan kategori **Footwear**, tetapi total sales yang dihasilkan adalah yang paling rendah. Ini terjadi karena **harga unit price Accessories lebih rendah dibanding kategori lain**, sehingga grafik yang dihasilkan menujukkan **Accessories** berada di tingkat terendah penjualan.
-  - Dari hal tersebut, tidak bisa dikatakan bahwa minat pembeli pada kategori **Accessories** di setiap wilayah itu rendah, akan tetapi, kita bisa meningkatkan penjualan kategori tersebut dengan beberapa cara seperti dilakukannya promosi melalui media sosial atau launching produk baru untuk menarik minat pelanggan lebih banyak dalam pembelian kategori tersebut. 
+  - Judging from the **Sum of Quantity**, the **Accessories** category ranks third in terms of the number of buyers compared to the **Footwear** category, but its total sales are the lowest. This is because the **unit price of Accessories is lower than other categories**, so the graph shows that **Accessories** has the lowest sales.
+  - From this, it cannot be said that buyer interest in the **Accessories** category is low in every region. However, we can **increase sales** in this category in several ways, **such as promoting it through social media or launching new products** to attract more customers to purchase items in this category. 
 
 ## 🎯 Learning Outcome
 After completing the Intermediate projects, the learner is able to:
