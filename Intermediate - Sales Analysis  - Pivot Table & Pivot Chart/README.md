@@ -48,7 +48,7 @@ The output of these mini projects typically includes:
  </div>
   - Puncak tertinggi tren berada di bulan Februari sebesar Rp 10.050.000. ---- (The highest peak of the trend was in February at Rp 10,050,000.)
   - Terjadi penurunan drastis dari bulan April ke Mei sebesar 66%. ---- (There was a drastic decline from April to May of 66%.)
-  - Setelah analisis lebih lanjut, penurunan (*grafik putus-putus orange*) terjadi karena kurangnya data atau ketidakaturan durasi data. Dataset yang digunakan berakhir di tanggal *10 Mei 2024*, sehingga dapat dikatakan bahwa *data tersebut masih on-going atau Forecast*. ---- (After further analysis, the decline (*orange dotted line*) occurred due to insufficient data or irregular data duration. The dataset used ends on *May 10, 2024*, so it can be said that *the data is still ongoing or a forecast*.) <br>
+  - Setelah analisis lebih lanjut, penurunan (*grafik putus-putus orange*) terjadi karena kurangnya data atau ketidakaturan durasi data. Dataset yang digunakan berakhir di tanggal *10 Mei 2024*, sehingga dapat dikatakan bahwa *data tersebut masih on-going atau Forecast*. ---- (After further analysis, the decline (*orange dotted line*) occurred due to insufficient data or irregular data duration. The dataset used ends on *May 10, 2024*, so it can be said that *the data is still ongoing or a forecast*.)
 
 <div align = "center">
   <img width="520" height="100" alt="image" src="https://github.com/user-attachments/assets/23a38fc8-a73c-4f79-a450-48543b852643" />
