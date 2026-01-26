@@ -38,9 +38,7 @@ Common preprocessing steps include:
 The output of these mini projects typically includes:
 - **Total Sales per Category**
   - Kategori **Electronics menyumbang pendapatan tertinggi sebesar RP 12,935,000**. 
-  <div align = "center">
     <img width="545" height="366" alt="image" src="https://github.com/user-attachments/assets/80cfa220-69f8-48d0-83b4-3f2c255013bf" />
-  </div> 
 
 - **Total Sales per Date / Trend Chart** <br>
     <img width="552" height="327" alt="image" src="https://github.com/user-attachments/assets/0f37425b-52fa-4cda-9507-404ce611cf6d" />
@@ -68,18 +66,6 @@ The output of these mini projects typically includes:
     <img width="674" height="474" alt="image" src="https://github.com/user-attachments/assets/0c1f06e1-1c7b-4990-862e-afe8d2417888" />
   - Dilihat dari **Sum of Quantity**, kategori **Accessories** berada di urutan ke-3 dengan pembeli terbanyak dibandingkan kategori **Footwear**, tetapi total sales yang dihasilkan adalah yang paling rendah. Ini terjadi karena **harga unit price Accessories lebih rendah dibanding kategori lain**, sehingga grafik yang dihasilkan menujukkan **Accessories** berada di tingkat terendah penjualan.
   - Dari hal tersebut, tidak bisa dikatakan bahwa minat pembeli pada kategori **Accessories** di setiap wilayah itu rendah, akan tetapi, kita bisa meningkatkan penjualan kategori tersebut dengan beberapa cara seperti dilakukannya promosi melalui media sosial atau launching produk baru untuk menarik minat pelanggan lebih banyak dalam pembelian kategori tersebut. 
-  - f
-  - fff
-  - gg
-  - g
-  - ggg
-  - gg
-<p align="center">
-  <img width="552" height="327" alt="image" src="https://github.com/user-attachments/assets/0f37425b-52fa-4cda-9507-404ce611cf6d" />
-</p>
-
-**Sales Performance Dashboard**  
-*Excel Intermediate Project*
 
 ## 🎯 Learning Outcome
 After completing the Intermediate projects, the learner is able to:
