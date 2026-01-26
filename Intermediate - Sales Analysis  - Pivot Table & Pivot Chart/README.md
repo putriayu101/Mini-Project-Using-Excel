@@ -61,10 +61,10 @@ The output of these mini projects typically includes:
   - Dilakukan Juga Analisa Perbandingan Tgl 1 - 10 April vs Mei. Didapatkan hasil, bahwa *total penjualan di bulan Mei lebih tinggi dibandingkan bulan April*. ---- (A comparative analysis was also conducted for April 1-10 vs. May. The results showed that *total sales in May were higher than in April*.)
 
 - **Total Sales High vs Low**
+  - Pada bulan Januari - Mei 2024 sekitar 85% produk yang diminati berasal dari produk dengan harga mahal. Di setiap bulannya minat konsumen tidak berubah, dapat disimpulkan bahwa produk dengan harga tinggi lebih mendominasi penjualan tiap bulan. ---- (From January to May 2024, around 85% of the most popular products were high-priced items. Consumer interest remained consistent each month, suggesting that high-priced products dominated sales every month.)
 <div align = "center"
   <img width="417" height="275" alt="image" src="https://github.com/user-attachments/assets/b7afa68d-f460-46cf-bbc9-154c6b92ffb4" />
 </div>
-  - Pada bulan Januari - Mei 2024 sekitar 85% produk yang diminati berasal dari produk dengan harga mahal. Di setiap bulannya minat konsumen tidak berubah, dapat disimpulkan bahwa produk dengan harga tinggi lebih mendominasi penjualan tiap bulan. ---- (From January to May 2024, around 85% of the most popular products were high-priced items. Consumer interest remained consistent each month, suggesting that high-priced products dominated sales every month.)
 
 - **Total Sales per Region**
 <div align = "center"
