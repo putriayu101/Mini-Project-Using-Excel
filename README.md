@@ -25,9 +25,6 @@ Across all project levels, data preparation may include:
 
 ## 🛠 Tools Used
 - Microsoft Excel
-  - Formulas & Functions
-  - Pivot Tables
-  - Charts & Visualizations
 
 
 ## 🚀 How to Navigate
