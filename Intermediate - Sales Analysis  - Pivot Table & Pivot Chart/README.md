@@ -4,7 +4,7 @@ This folder contains **intermediate-level Excel mini projects** focused on apply
 ## 📁 Dataset
 - The entire dataset consists of 130 data points. There are 70 original data points and 60 additional data points.
 - The dataset covers the period from January 1, 2024 to May 10, 2024.
-- A dummy dataset is used for this project.
+- A dummy dataset is used for this project and The dataset used is in the portfolio file.
 
 ## 🛠 Tools Used
 - Microsoft Excel  
