@@ -57,7 +57,7 @@ The output of these mini projects typically includes:
   - The highest peak of the trend was in **February at Rp 10,050,000**.
   - There was a **sharp decline** from April to May **by 66%**.
   - After further analysis, the **decline (*orange dotted line*) occurred due to a lack of data or irregular data duration**. The dataset used ends on **May 10, 2024**, so it can be said that **the data is still ongoing or a forecast**. 
-  - After further analysis using **forecasting**, the results show that **in May, sales performance was stable at Rp 9,889,000 or 23.99%**, and even had the potential to match the sales record in February.<br>
+  - After further analysis using **forecasting**, the results show that **in May, sales performance was stable at Rp 9,889,000 or 24%**, and even had the potential to match the sales record in February.<br>
     <img width="539" height="200" alt="image" src="https://github.com/user-attachments/assets/db61e120-deb4-43d8-8ce8-2eb1f0cd36d0" /> <br><br>
   - A comparative analysis was also conducted for April 1-10 vs. May. The results showed that **total sales in May were higher than in April**.<br>
     <img width="317" height="238" alt="image" src="https://github.com/user-attachments/assets/11f64595-6eff-4add-b200-d73dacc9015e" />
