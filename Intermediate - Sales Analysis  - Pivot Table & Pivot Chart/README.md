@@ -4,7 +4,19 @@ This folder contains **intermediate-level Excel mini projects** focused on apply
 ## 📁 Dataset
 - The entire dataset consists of 130 data points. There are 70 original data points and 60 additional data points.
 - The dataset covers the period from January 1, 2024 to May 10, 2024.
-- A dummy dataset is used for this project and The dataset used is in the portfolio file.
+- A dummy dataset is used for this project and the dataset used is in the portfolio file.
+
+## 📄 Files
+File descriptions in the portfolio
+  - RAW Data Porto: RAW dataset used in this project
+  - CLEAN Data Porto: Clean dataset or dataset that has undergone data cleaning
+  - Mapping_Product: Helper file used in the data cleaning process
+  - Dataset Tambahan: Additional data added for this project
+  - RILL Fix Data (Pivot): FIX dataset used for analysis
+  - Portfolio-PIVOT+Chart: Analysis results with Pivot tables and Pivot Charts along with analysis notes
+  - Tabel-Help Pivot: Helper table in one of the analysis segments in the Pivot table
+  - DASHBOARD: Analysis results formed in dashboard visualization
+  - Dashboard-Sheethelp: Helper file in dashboard creation
 
 ## 🛠 Tools Used
 - Microsoft Excel  
