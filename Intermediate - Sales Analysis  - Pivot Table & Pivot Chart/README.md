@@ -8,15 +8,15 @@ This folder contains **intermediate-level Excel mini projects** focused on apply
 
 ## 📄 Files
 File descriptions in the portfolio
-  - RAW Data Porto: RAW dataset used in this project
-  - CLEAN Data Porto: Clean dataset or dataset that has undergone data cleaning
-  - Mapping_Product: Helper file used in the data cleaning process
-  - Dataset Tambahan: Additional data added for this project
-  - RILL Fix Data (Pivot): FIX dataset used for analysis
-  - Portfolio-PIVOT+Chart: Analysis results with Pivot tables and Pivot Charts along with analysis notes
-  - Tabel-Help Pivot: Helper table in one of the analysis segments in the Pivot table
-  - DASHBOARD: Analysis results formed in dashboard visualization
-  - Dashboard-Sheethelp: Helper file in dashboard creation
+  - **RAW Data Porto**: RAW dataset used in this project
+  - **CLEAN Data Porto**: Clean dataset or dataset that has undergone data cleaning
+  - **Mapping_Product**: Helper file used in the data cleaning process
+  - **Dataset Tambahan**: Additional data added for this project
+  - **RILL Fix Data (Pivot)**: FIX dataset used for analysis
+  - **Portfolio-PIVOT+Chart**: Analysis results with Pivot tables and Pivot Charts along with analysis notes
+  - **Tabel-Help Pivot**: Helper table in one of the analysis segments in the Pivot table
+  - **DASHBOARD**: Analysis results formed in dashboard visualization
+  - **Dashboard-Sheethelp**: Helper file in dashboard creation
 
 ## 🛠 Tools Used
 - Microsoft Excel  
