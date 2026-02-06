@@ -66,12 +66,12 @@ The output of these mini projects typically includes:
   - From **January to May 2024, approximately 85% of the most popular products were high-priced items**. Consumer interest remained consistent each month, suggesting that high-priced products dominated monthly sales.
     <img width="425" height="399" alt="image" src="https://github.com/user-attachments/assets/e55be7fd-e46e-4aac-b0ff-1ee359a9e412" />
 
-- **Total Sales per Region**<br>
+- **Total Sales per Region** <br>
     <img width="554" height="466" alt="image" src="https://github.com/user-attachments/assets/53f43d9e-f92d-4454-b23d-646e88c1819b" />
   - The **highest sales percentage** came from the **West** region, which accounted for **28%** of total sales, followed by the **East, North, and finally South**.
 
-- **Trend Harga Jual (Average per Unit)**<br>
-    <img width="553" height="452" alt="image" src="https://github.com/user-attachments/assets/754cd16f-7d52-4ca4-ac30-f3d2ffc500c6" />
+- **Trend Harga Jual (Average per Unit)** <br>
+    <img width="553" height="452" alt="image" src="https://github.com/user-attachments/assets/6eb74805-18df-4748-bd01-4137629d887d" />
   - On average, **sales from January to May 2024 increased**, peaking in May at Rp 145,500, meaning that **product sales increased gradually each month** (*orange bar graph*).
 
 - **Total Sales of Each Category per Region**<br>
