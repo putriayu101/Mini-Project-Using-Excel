@@ -80,7 +80,7 @@ The output of these mini projects typically includes:
   - From this, it cannot be said that buyer interest in the **Accessories** category is low in every region. However, we can **increase sales** in this category in several ways, **such as promoting it through social media or launching new products** to attract more customers to purchase items in this category. 
 
 ## 📊Dashboard 
-Excel simple dashboard:														
+Excel simple dashboard from this project:														
 <img width="1382" height="540" alt="image" src="https://github.com/user-attachments/assets/c4458171-a060-4c9f-87e9-4d6af4e4b687" />
 
 ## 🎯 Learning Outcome
