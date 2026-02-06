@@ -30,7 +30,7 @@ Across all project levels, data preparation may include:
 ## 🚀 How to Navigate
 1. Start from the **basic** folder
 2. Continue to **intermediate**
-3. Finish with **advanced**
+3. Finish with **advanced** (*processed*)
 4. Refer to each folder’s README for project details
 
 
