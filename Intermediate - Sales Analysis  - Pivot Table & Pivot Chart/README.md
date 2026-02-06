@@ -71,7 +71,7 @@ The output of these mini projects typically includes:
   - The **highest sales percentage** came from the **West** region, which accounted for **28%** of total sales, followed by the **East, North, and finally South**.
 
 - **Trend Harga Jual (Average per Unit)** <br>
-    <img width="553" height="452" alt="image" src="https://github.com/user-attachments/assets/6eb74805-18df-4748-bd01-4137629d887d" />
+    <img width="553" height="435" alt="image" src="https://github.com/user-attachments/assets/ca606d72-7974-469e-9fab-f6691af8fd4e" />
   - On average, **sales from January to May 2024 increased**, peaking in May at Rp 145,500, meaning that **product sales increased gradually each month** (*orange bar graph*).
 
 - **Total Sales of Each Category per Region**<br>
