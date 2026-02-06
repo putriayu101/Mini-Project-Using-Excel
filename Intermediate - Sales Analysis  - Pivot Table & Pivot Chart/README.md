@@ -79,6 +79,10 @@ The output of these mini projects typically includes:
   - Judging from the **Sum of Quantity**, the **Accessories** category ranks third in terms of the number of buyers compared to the **Footwear** category, but its total sales are the lowest. This is because the **unit price of Accessories is lower than other categories**, so the graph shows that **Accessories** has the lowest sales.
   - From this, it cannot be said that buyer interest in the **Accessories** category is low in every region. However, we can **increase sales** in this category in several ways, **such as promoting it through social media or launching new products** to attract more customers to purchase items in this category. 
 
+## 📊Dashboard 
+Excel simple dashboard:														
+<img width="1382" height="540" alt="image" src="https://github.com/user-attachments/assets/c4458171-a060-4c9f-87e9-4d6af4e4b687" />
+
 ## 🎯 Learning Outcome
 After completing the Intermediate projects, the learner is able to:
 - Prepare and clean datasets for analysis
