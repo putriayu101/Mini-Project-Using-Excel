@@ -89,7 +89,7 @@ The output of these mini projects typically includes:
 
 ## 📊Dashboard 
 Excel simple dashboard from this project:														
-<img width="1382" height="540" alt="image" src="https://github.com/user-attachments/assets/c4458171-a060-4c9f-87e9-4d6af4e4b687" />
+<img width="1395" height="647" alt="image" src="https://github.com/user-attachments/assets/4dd99deb-0289-4123-8b24-1c869729b6f9" />
 
 ## 🎯 Learning Outcome
 After completing the Intermediate projects, the learner is able to:
