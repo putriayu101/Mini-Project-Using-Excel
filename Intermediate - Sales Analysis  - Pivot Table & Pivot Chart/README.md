@@ -65,7 +65,7 @@ The output of these mini projects typically includes:
     <img width="425" height="399" alt="image" src="https://github.com/user-attachments/assets/e55be7fd-e46e-4aac-b0ff-1ee359a9e412" />
 
 - **Total Sales per Region** <br>
-    <img width="554" height="466" alt="image" src="https://github.com/user-attachments/assets/53f43d9e-f92d-4454-b23d-646e88c1819b" />
+    <img width="674" height="379" alt="image" src="https://github.com/user-attachments/assets/8f17d2c8-2a9e-40c6-9476-f66a919ff812" />
   - The **highest sales percentage** came from the **West** region, which accounted for **28%** of total sales, followed by the **East, North, and finally South**.
 
 - **Trend Harga Jual (Average per Unit)** <br>
@@ -73,8 +73,7 @@ The output of these mini projects typically includes:
   - On average, **sales from January to May 2024 increased**, peaking in May at Rp 145,500, meaning that **product sales increased gradually each month** (*orange bar graph*).
 
 - **Total Sales of Each Category per Region**<br>
-    <img width="674" height="379" alt="image" src="https://github.com/user-attachments/assets/8f17d2c8-2a9e-40c6-9476-f66a919ff812" />
-
+    <img width="682" height="428" alt="image" src="https://github.com/user-attachments/assets/24cae286-5f37-4dd1-9858-9baa6482e8d9" />
   - Judging from the **Sum of Quantity**, the **Accessories** category ranks third in terms of the number of buyers compared to the **Footwear** category, but its total sales are the lowest. This is because the **unit price of Accessories is lower than other categories**, so the graph shows that **Accessories** has the lowest sales.
   - From this, it cannot be said that buyer interest in the **Accessories** category is low in every region. However, we can **increase sales** in this category in several ways, **such as promoting it through social media or launching new products** to attract more customers to purchase items in this category.
 
