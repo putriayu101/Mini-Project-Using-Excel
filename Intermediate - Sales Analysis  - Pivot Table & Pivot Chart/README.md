@@ -19,10 +19,7 @@ File descriptions in the portfolio
   - **Dashboard-Sheethelp**: Helper file in dashboard creation
 
 ## 🛠 Tools Used
-- Microsoft Excel  
-  - Formulas & Functions  
-  - Pivot Tables  
-  - Pivot Charts   
+- Microsoft Excel (Pivot Table, Chart, Forecasting, Dashboard) 
 
 ## 🎯 Project Focus
 The Intermediate level projects aim to practice:
