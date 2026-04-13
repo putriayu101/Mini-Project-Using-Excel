@@ -1,6 +1,6 @@
 # 📊 Sales Performance Analysis & Revenue Forecasting Excel
 
-This folder contains **intermediate-level Excel mini projects** focused on applying analytical functions and structured data analysis techniques to business-oriented datasets. The projects emphasize **data preparation and clear data visualization** using Microsoft Excel.
+This folder focused on applying analytical functions and structured data analysis techniques to business-oriented datasets. The projects emphasize **data preparation and clear data visualization** using Microsoft Excel.
 
 ## 📁 Dataset
 - The entire dataset consists of 130 data points. There are 70 original data points and 60 additional data points.
